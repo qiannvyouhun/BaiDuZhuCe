@@ -8,7 +8,7 @@ module.exports = function (grunt) {
             },
             files: {
                 src: './index.html',
-                dest: './compression/index.min.html'
+                dest: './compression/index.html'
             }
         },
         cssmin: {
