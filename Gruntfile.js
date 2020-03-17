@@ -12,10 +12,10 @@ module.exports = function (grunt) {
             }
         },
         cssmin: {
-            './compression/index.min.css': './index.css'
+            './compression/index.css': './index.css'
         },
         uglify: {
-            './compression/index.min.js': './index.js'
+            './compression/index.js': './index.js'
         }
 
     });
